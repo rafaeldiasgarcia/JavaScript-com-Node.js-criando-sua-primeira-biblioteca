@@ -11,16 +11,9 @@ O projeto consiste na criação de uma biblioteca em JavaScript que permite real
 - Criação da lógica do projeto
 - Tratamento de erros
 
-## Funcionalidades
-
-- **Funcionalidade 1**: Descrição da funcionalidade 1.
-- **Funcionalidade 2**: Descrição da funcionalidade 2.
-- **Funcionalidade 3**: Descrição da funcionalidade 3.
-
 ## Requisitos
 
-- Node.js (versão X.X.X)
-- NPM (versão X.X.X)
+- Node.js (versão v22.14.0
 
 ## Instalação
 
