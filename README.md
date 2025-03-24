@@ -62,14 +62,6 @@ Se você quiser contribuir com o projeto, siga os passos abaixo:
    ```
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato.
-
 ---
 
 Projeto desenvolvido por [Rafael Dias Garcia](https://github.com/rafaeldiasgarcia).
